@@ -9,9 +9,6 @@ Explore the beauty of cities around the world through visuals.
 - Hover effects on images
 - Clean layout using CSS 
 
-### Live Demo
-[Click here to view the project online]( https://mansi-agrawal-codes.github.io/Cityscapes-Image-gallery/)
-
 ## Made by
 Mansi Agrawal 
 HTML & CSS Projects
